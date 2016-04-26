@@ -89,7 +89,7 @@ Trois Ministères cherchent à collaborer sur un document officiel ...
   * À la réception de la demande de la part d'un fils, le père envoie (si ce n'est pas déjà fait ) une demande aux noeuds de rang directement inférieur. Et ainsi de suite ...   
 
 ### Résillience, reconstruction et mises à jour des rangs
-TODO... 
+TODO...
 
 ### Communication entre plusieurs entités de fédération  
 TODO...
@@ -105,10 +105,10 @@ Architecture en couches :
   \  Application  \
    \_______________\
 
-\               \
- \               \
-  \    Lib fédé   \
-   \_______________\
+  \               \
+   \               \
+    \    Lib fédé   \
+     \_______________\
 
    \               \
     \               \
